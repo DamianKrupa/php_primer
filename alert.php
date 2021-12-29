@@ -8,7 +8,7 @@
 $x = 8;
 
 while($x <= 2) {
-  echo '<h3 <br style="color: red"> KOCHAM SYLWUNIĘ! </br> </h3>'; 
+  echo '<h3 <br style="color: red"> KOCHAM SYLWUNIĘ ojoj! </br> </h3>'; 
   $x++;
 }
 
